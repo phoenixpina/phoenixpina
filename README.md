@@ -4,13 +4,13 @@
 
 ---
 
-Welcome to my GitHub profile! I'm currently studying **Software Engineering** and working toward a **certificate in Quality Assurance**. I'm passionate about creating interactive experiences—whether in **games**, **movies**, or other areas of **entertainment**.
+Welcome to my GitHub page! I'm currently studying **Software Engineering** and working toward a **certificate in Quality Assurance**. I'm passionate about creating interactive experiences—whether in **games**, **movies**, or other areas of **entertainment**.
 
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, C#, C++, HTML/CSS
 - **Tools & Frameworks**: Godot, Selenium, Jira
-- **Interests**: Game design, QA testing, web development, automation
+- **Interests**: Game design, QA testing, web development, automation, games of any kind
 
 ## 🎯 Goals
 
